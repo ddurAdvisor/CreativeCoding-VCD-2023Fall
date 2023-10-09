@@ -1,7 +1,7 @@
 Week04: Image and Pixel process
 
 ## class tutorial
-![img](https://github.com/ddurAdvisor/CreativeCoding2022Fall/blob/main/Week04/sourceImage/loopSerialFontSelection.png)
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week04/data/capturedImage.png)
 ``` java
 PImage img;
 float s;
