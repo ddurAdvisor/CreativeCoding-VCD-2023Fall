@@ -45,7 +45,7 @@ void tile(float bt, float sSize, int rectX, int rectY) {
   }
 }
 ```
-- [完整的源程序：loopSerialFontSelection](https://github.com/ddurAdvisor/CreativeCoding2022Fall/tree/main/Week04/loopSerialFontSelection)
+- [完整的源程序：loopSerialFontSelection](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week04/code/image_07_get_pixels_2)
 
 ## Font and Text
 - PFont.list()
