@@ -77,8 +77,3 @@ void generateLogo() {
 
 ## Font and Text
 - int[] colors = {#1770ac, #cd402e, #fbd033};
-- createFont()
-- textFont()
-- fontSize()
-- textAlign()
-- text()
