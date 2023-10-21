@@ -73,7 +73,7 @@ void generateLogo() {
   }
 }
 ```
-- [完整的源程序：image_07_get_pixels_2](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/mitLogo)
+- [完整的源程序：mitLogo](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/mitLogo)
 
 ## Font and Text
 - int[] colors = {#1770ac, #cd402e, #fbd033};
