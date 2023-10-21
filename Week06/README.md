@@ -1,8 +1,8 @@
-Week04: Image and Pixel process
+Week06: Image, Pixel and vectorized output
 
 ## class tutorial
 
-![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/noiseCurve/mitLogo0.png)
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/noiseCurve/COLORFULCurves.png)
 
 class Curve
 ``` java
