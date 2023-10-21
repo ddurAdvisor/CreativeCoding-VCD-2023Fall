@@ -1,7 +1,10 @@
 Week06: Image, Pixel and vectorized output
 
-## class tutorial
+# class tutorial
 
+
+
+## COLORFULCurves
 ![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/noiseCurve/COLORFULCurves.png)
 
 class Curve
@@ -59,6 +62,46 @@ for (int i=0; i<curves.length; i++) {
 
 
 
+## ghostCircle
+
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/ghostCircle/ghostCircle.png)
+``` java
+```
+- [完整的源程序：ghostCircle](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/ghostCircle)
+
+
+
+
+## noiseBrush
+
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/noiseBrush/noiseBrush.png)
+``` java
+```
+- [完整的源程序：noiseBrush](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/noiseBrush)
+
+
+
+
+## portraitSketch
+
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/portraitSketch/portraitSketch.png)
+``` java
+```
+- [完整的源程序：portraitSketch](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/portraitSketch)
+
+
+
+
+## waterColorStylePattern
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/waterColorStylePattern/waterColorStylePattern.png)
+``` java
+```
+- [完整的源程序：waterColorStylePattern](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/waterColorStylePattern)
+
+
+
+
+## mitLogo
 ![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/mitLogo/mitLogo0.png)
 
 ``` java
@@ -137,6 +180,36 @@ void generateLogo() {
 - int[] colors = {#1770ac, #cd402e, #fbd033};
 
 
+
+
+## metaBall
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/metaBall/metaBall.png)
+``` java
+```
+- [完整的源程序：noiseBrush](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/metaBall)
+
+
+
+
+## SDF_signedDistanceField_boxAndCircle
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/SDF_signedDistanceField_boxAndCircle/SDF_signedDistanceField_boxAndCircle.png)
+``` java
+```
+- [完整的源程序：SDF_signedDistanceField_boxAndCircle](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/SDF_signedDistanceField_boxAndCircle)
+
+
+
+
+## SDF_signedDistanceField_gradientColors
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/SDF_signedDistanceField_gradientColors/SDF_signedDistanceField_gradientColors.png)
+``` java
+```
+- [完整的源程序：SDF_signedDistanceField_gradientColors](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/SDF_signedDistanceField_gradientColors)
+
+
+
+
+## fidenza
 ![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/FidenzaStyle/fidenza-7824.png)
 ![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/FidenzaStyle/fidenza-8506.png)
 
