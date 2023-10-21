@@ -137,7 +137,8 @@ void generateLogo() {
 - int[] colors = {#1770ac, #cd402e, #fbd033};
 
 
-![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/mitLogo/mitLogo0.png)
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/FidenzaStyle/fidenza-7824.png)
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/FidenzaStyle/fidenza-8506.png)
 
 FlowField
 ``` java
@@ -199,7 +200,7 @@ public class FlowField {
   }
 }
 ```
-- [完整的源程序：mitLogo](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/FidenzaStyle)
+- [完整的源程序：FidenzaStyle](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/tree/main/Week06/FidenzaStyle)
 
 Particle
 ``` java
