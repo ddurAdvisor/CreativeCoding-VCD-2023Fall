@@ -3,6 +3,14 @@ Week06: Image, Pixel and vectorized output
 # class tutorial
 
 
+## greyStripes
+![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/greyStripes/greyStripes.png)
+
+``` java
+```
+- [完整的源程序：greyStripes](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/greyStripes)
+
+
 
 ## COLORFULCurves
 ![img](https://github.com/ddurAdvisor/CreativeCoding-VCD-2023Fall/blob/main/Week06/noiseCurve/COLORFULCurves.png)
